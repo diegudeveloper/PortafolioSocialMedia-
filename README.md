@@ -1,4 +1,4 @@
-# gndx.io
+# Proyecto Portafolio Redes Sociales
 
 A minimal landing page for your Social Networks and other shared links.
 
